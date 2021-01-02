@@ -7,13 +7,15 @@
 [![codecov](https://codecov.io/gh/numpy/numpy/branch/master/graph/badge.svg)](
     https://codecov.io/gh/numpy/numpy)
 
-NumPy is the fundamental package needed for scientific computing with Python. 
 
-This is the E2G Fork with the following changes:
+#This is the E2G Fork of Numpy with the following changes:
 
 - In numpy\numpy\core\include\numpy\ndarraytypes.h:
 - NPY_MAXDIMS 5000 (from 32)
 - NPY_MAXARGS 128 (from 32)
+
+NumPy is the fundamental package needed for scientific computing with Python. 
+
 
 - **Website:** https://www.numpy.org
 - **Documentation:** https://numpy.org/doc
