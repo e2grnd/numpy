@@ -37,8 +37,8 @@
  * to dynamic (including inside of several structures)
  */
 
-#define NPY_MAXDIMS 32
-#define NPY_MAXARGS 32
+#define NPY_MAXDIMS 5000
+#define NPY_MAXARGS 128
 
 /* Used for Converter Functions "O&" code in ParseTuple */
 #define NPY_FAIL 0
