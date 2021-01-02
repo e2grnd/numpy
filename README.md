@@ -8,7 +8,7 @@
     https://codecov.io/gh/numpy/numpy)
 
 
-#This is the E2G Fork of Numpy with the following changes:
+# This is the E2G Fork of Numpy with the following changes:
 
 - In numpy\numpy\core\include\numpy\ndarraytypes.h:
 - NPY_MAXDIMS 5000 (from 32)
